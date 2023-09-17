@@ -56,8 +56,8 @@ struct CustomListRowView_Previews: PreviewProvider {
                 rowIcon: "globe",
                 rowContent: nil,
                 rowTintColor: .pink,
-                rowLinkLabel: "Credo Academy",
-                rowLinkDestination: "https://credo.academy"
+                rowLinkLabel: "Code by Prathap",
+                rowLinkDestination: "https://prathapiosdev.wixsite.com/code/"
             )
         }
     }
